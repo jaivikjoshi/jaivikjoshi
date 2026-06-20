@@ -5,9 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/jaivikjoshi?tab=repositories">Projects</a> ·
-  <a href="https://github.com/jaivikjoshi?tab=repositories&q=&type=&language=python">Python</a> ·
-  <a href="https://github.com/jaivikjoshi?tab=repositories&q=&type=&language=typescript">TypeScript</a> ·
+  <a href="https://github.com/jaivikjoshi?tab=repositories">Projects</a> |
+  <a href="https://github.com/jaivikjoshi?tab=repositories&q=&type=&language=python">Python</a> |
+  <a href="https://github.com/jaivikjoshi?tab=repositories&q=&type=&language=typescript">TypeScript</a> |
   <a href="https://github.com/jaivikjoshi?tab=repositories&q=&type=&language=dart">Flutter</a>
 </p>
 
